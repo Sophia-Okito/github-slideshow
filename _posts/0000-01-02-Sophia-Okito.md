@@ -2,4 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello
+Quote of the day
+
+
